@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sanyu1225&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyu1225&theme=tokyonight" alt="Card">
+</p>
